@@ -5,7 +5,7 @@ This project aims to develop an Image to Text model for extracting numerical res
 ## Dataset
 The dataset consists of images of election forms obtained from different TPS locations. Each image contains the voting results for the three candidates. Here is an example of the dataset:
 
-![Election Form Dataset](TPS_014.png)
+![Election Form Dataset](TPS_014.jpg)
 
 ## Model Architecture
 The model architecture involves convolutional neural networks (CNNs) for feature extraction and sequence-to-sequence models for recognizing and transcribing the numerical data from the images. GradCAM visualization is used to interpret and analyze the model's predictions. Here is an example of GradCAM visualization for a prediction:
