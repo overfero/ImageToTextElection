@@ -1,0 +1,12 @@
+model_path: Models/gammafest\202404191908
+vocab: '4381270596'
+height: 224
+width: 64
+max_text_length: 9
+batch_size: 64
+learning_rate: 0.001
+train_epochs: 1000
+train_cer: 0.054320983588695526
+train_wer: 0.3377777636051178
+val_cer: 0.04444444552063942
+val_wer: 0.20000000298023224
